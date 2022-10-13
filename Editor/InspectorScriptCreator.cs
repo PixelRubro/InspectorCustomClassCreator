@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 using System.IO;
@@ -137,3 +138,4 @@ public static class InspectorScriptCreator
 
     #endregion
 }
+#endif
