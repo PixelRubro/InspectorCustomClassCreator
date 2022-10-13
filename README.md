@@ -17,6 +17,6 @@ A tool to automatically create a script to customize a class in the inspector.
 
 Add the following line to your `manifest.json` found in the "Packages" folder
 
-`    "com.softboiledgames.unityxtension": "git@github.com:SoftBoiledGames/InspectorCustomClassCreator.git"`
+`    "com.softboiledgames.custominspector": "git@github.com:SoftBoiledGames/InspectorCustomClassCreator.git"`
 
 Based on https://gist.github.com/LotteMakesStuff/cb63e4e25e5dfdda19a95380e9c03436
